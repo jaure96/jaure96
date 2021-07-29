@@ -6,7 +6,7 @@ I appreciate people who are open-minded, truthful, and genuine. My goal is to ma
 
 👔  
 I’m currently working at Koniker S.Coop.  
-We're building an I4.0 digital platform for the analysis of industrial machines to offer continuous improvement.  
+We're building an [I4.0 digital platform](https://falinkmap.fagorarrasate.es/) for the analysis of industrial machines to offer continuous improvement.  
 
 💻  
 I’m passionate about web app development & infrastructure
