@@ -12,4 +12,4 @@ We're building an [I4.0 digital platform](https://falinkmap.fagorarrasate.es/) f
 I’m passionate about web app development & infrastructure
 
 🧠  
-I'm learning mobile application development with react native and typescript
+I'm learning mobile application development with ReactNative and TypeScript
