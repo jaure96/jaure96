@@ -2,7 +2,7 @@
 
 <em>
 I value autonomy and dependable teammates.  
-I appreciate people who are open-minded, truthful, and genuine. My goal is to make complicated things simple. I can be demanding at times, but I try to be realistic and flexible. I treasure hard work and passion above all else.
+I appreciate people who are open-minded, truthful, and genuine. </br> My goal is to make complicated things simple. I can be demanding at times, but I try to be realistic and flexible. </br>I treasure hard work and passion above all else.
 </em>
 <br/>
 
