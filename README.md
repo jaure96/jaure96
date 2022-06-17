@@ -1,4 +1,4 @@
-### Hi! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">  </br> My name is Xabi, &nbsp;
+### Hi!   </br> My name is Xabi, &nbsp;
 
 <em>
 I value autonomy and dependable teammates.  
