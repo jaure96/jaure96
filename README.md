@@ -1,23 +1,10 @@
-### Hi!   </br> My name is Xabi, &nbsp;
+### Greetings!   </br>
 
 <em>
-I value autonomy and dependable teammates.  
-I appreciate people who are open-minded, truthful, and genuine. </br> My goal is to make complicated things simple. I can be demanding at times, but I try to be realistic and flexible. </br>I treasure hard work and passion above all else.
+I'm Xabi, a seasoned frontend developer and independent mobile app enthusiast. With over 6 years of hands-on experience in crafting engaging user interfaces and seamless user experiences, I've immersed myself in the ever-evolving world of web and mobile development. Specializing in frontend technologies such as React, ReactNative, JavaScript, TypeScript, SQL and Java. I thrive on translating ideas into visually stunning and highly functional digital solutions. As an indie mobile app developer, I've ventured into the realm of mobile innovation, bringing unique concepts to life one app at a time. Let's connect and embark on a journey of creating impactful digital experiences together.
 </em>
 <br/>
 
-
-### Languages and Tools
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 ### 📫 Get In Touch
